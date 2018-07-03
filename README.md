@@ -1,2 +1,2 @@
 # OpenChat-PC
-a Electron Chat Web Application
+A Electron Chat Web Applicationn
